@@ -83,6 +83,34 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "d44d",
+      "type": "Full-Time",
+      "title": "hogsg",
+      "location": "suigus",
+      "description": "foishgih",
+      "salary": "Under $50K",
+      "company": {
+        "name": "sguisg",
+        "description": "gusgus",
+        "contactEmail": "davidcngozika@gmail.com",
+        "contactPhone": "09069246932"
+      }
+    },
+    {
+      "id": "505a",
+      "type": "Remote",
+      "title": "React Front-end Developer",
+      "location": "Venice, Italy",
+      "description": "An awesome job to have",
+      "salary": "$60K - 70K",
+      "company": {
+        "name": "Seeka",
+        "description": "All things software",
+        "contactEmail": "davidcngozika@gmail.com",
+        "contactPhone": "09069246932"
+      }
     }
   ]
 }
